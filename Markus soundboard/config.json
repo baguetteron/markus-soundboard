@@ -1,0 +1,8 @@
+{
+  "token": "<insert your discord bot token here>",
+  "prefix": "<self explainatory?>",
+  "vip":"<id of the vip>",
+  "vipReaction":"<this isnt that useful but it allows for a specified set of reactions to any of the vips messages>",
+  "name":"<the main command>",
+  "helpPicture":"<the picture included into the help message, source link plis>"
+}
