@@ -13,8 +13,10 @@ npm install node-opus
 ```
 
 ### Create a new folder:
-Once you've downloaded all required libraries you only need two more things:
+Once you've downloaded all required libraries you only need three more things:
 ```
-bot.js
-
+[bot.js](/Markus soundboard/bot.js)
+an folder named audio
+```
+Your audio clips will be put 
 ## Configuration:
