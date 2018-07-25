@@ -20,3 +20,10 @@ an folder named audio
 ```
 Your audio clips will be put 
 ## Configuration:
+
+...
+
+## Start the bot:
+```
+node bot.js
+```
